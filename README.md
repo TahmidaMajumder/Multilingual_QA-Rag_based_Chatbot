@@ -16,7 +16,7 @@ This is a Streamlit application that allows users to ask questions in multiple l
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Rag_Based_Q&A_System.git
+git clone https://github.com/your-username/Multilingual_QA-Rag_based_Chatbot.git
 ```
 
 2. Change to the project directory:
