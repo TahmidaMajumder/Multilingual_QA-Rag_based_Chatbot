@@ -2,6 +2,14 @@
 
 This is a Streamlit application that allows users to ask questions in multiple languages and receive intelligent responses from a conversational AI agent. The chatbot uses semantic search to find relevant information from a knowledge base and provides answers in the user's preferred language. It features automatic language detection, multilingual support, and real-time translation capabilities.
 
+<h2 align="center">📺 Demo Video</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=KAsYu1RpRpI" target="_blank">
+    <img src="https://img.youtube.com/vi/KAsYu1RpRpI/0.jpg" alt="Watch the demo" />
+  </a>
+</p>
+
 ## Features
 
 - **Multilingual Support**: Ask questions in 7 different languages (English, Bahasa Melayu, Bengali, French, Spanish, German, Japanese)
